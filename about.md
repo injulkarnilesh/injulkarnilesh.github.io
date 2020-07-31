@@ -4,14 +4,26 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Namaste,
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I am Nilesh Injulkar. I am from Kolhapur and live in Pune, Maharashtra, India.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have been a **Software Engineer** for close to a decade now.
+I mainly have worked as a Full Stack Developer with **Java** based stack.
+You can find more details about my career at [LinkedIn](https://www.linkedin.com/in/injulkarnilesh/). 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I like reading **books** especially biographies, but I keep exploring different genres. 
+You can see what I plan to read or have read on [Goodreads](https://www.goodreads.com/user/show/18638623-nilesh-injulkar) 
+
+Free or working, you can find me rocking to **Classic Rock**. My playlists hosts Pink Floyd, Bon Jovi and Beatles and many other.
+
+I am fond of **trekking**. I love visiting same or different forts nearby Pune with same or different people.
+
+Other stuff I follow:
+* Meditation
+* Technology
+* Memes
+
+
+-Peace :v:
