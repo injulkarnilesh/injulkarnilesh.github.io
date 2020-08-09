@@ -17,7 +17,7 @@ Luckily, Alt News, built with WordPress, provides [RSS feed](https://www.altnews
 
 Code for downloading titles from RSS feed:
 
-<script src="http://gist-it.appspot.com/http://github.com/injulkarnilesh/python_tryout/blob/master/alt-news/alt-news.py"></script>
+<script src="https://gist-it.appspot.com/https://github.com/injulkarnilesh/python_tryout/blob/master/alt-news/alt-news.py"></script>
 
 Here I am using
 * requests: library to make HTTP calls
@@ -27,7 +27,7 @@ End result of this is all titles saved into a file. As of 8th August 2020 conten
 
 Once I had the data, I used following code to create a word cloud from it:
 
-<script src="http://gist-it.appspot.com/https://github.com/injulkarnilesh/python_tryout/blob/master/alt-news/cloud.py"></script>
+<script src="https://gist-it.appspot.com/https://github.com/injulkarnilesh/python_tryout/blob/master/alt-news/cloud.py"></script>
 
 For building the word cloud, I used `wordcloud` library.
 
