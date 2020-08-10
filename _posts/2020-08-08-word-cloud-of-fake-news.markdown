@@ -6,6 +6,8 @@ categories: python
 tags: python data
 image: /assets/article_images/2020-08-08-fake-news-word-cloud/fake-news.jfif
 image2: /assets/article_images/2020-08-08-fake-news-word-cloud/fake-news.jfif
+image-credit: Financial Times
+image-credit-url: https://www.ft.com/
 ---
 [Alt News](https://www.altnews.in/) is Indian fake news debunking site run by pretty liberal group of people. Thanks to high penetration of Facebook, Twitter, WhatsApp, cheap data rates, and non professional main stream media, India has become hotbed of fake news. These platforms are exploited for every possible purpose you can name, be it political propaganda, spreading communal hatred, pseudo-science etc.
 Alt News does good job of debunking these fakes news by writing about them on their website. 

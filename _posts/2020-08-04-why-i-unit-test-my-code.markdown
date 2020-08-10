@@ -6,6 +6,8 @@ categories: testing
 tags: unit testing
 image: /assets/article_images/2020-08-04-testing/software-testing.jpg
 image2: /assets/article_images/2020-08-04-testing/software-testing-mobile.jpg
+image-credit: WestAgileLabs
+image-credit-url: https://blog.westagilelabs.com
 ---
 In my career of more than 9 years as a Fullstack Software Engineer, I have worked on different types of projects, few legacy, few under maintenance and few newly started.
 There were many things to observe, many things to learn. One of the things I learned by experience and from other developers was importance of Unit Tests.

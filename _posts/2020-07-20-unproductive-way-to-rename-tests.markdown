@@ -6,6 +6,8 @@ categories: automation
 tags: automation shell
 image: /assets/article_images/2020-07-20-rename-tests/terminal.jpg
 image2: /assets/article_images/2020-07-20-rename-tests/terminal-mobile.jpg
+image-credit: RedHat
+image-credit-url: https://www.redhat.com
 ---
 I had been working on a new micro-service in a newly joined team. Once basic functionality was ready and I got some breathing time, I thought I would look for any technical debt that I have accrued. During this, I got to know that the team has already been using Sonar for statistical analysis of the code.
 

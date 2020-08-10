@@ -28,6 +28,11 @@
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
             </div>
           </div>
+          {% if page.image-credit %}
+          <div class="image-credit">
+            Image Credit: <a href="{% if page.image-credit-url %}{{page.image-credit-url}}{% else %}#{% endif %}">{{page.image-credit}}</a> 
+          </div>
+          {% endif %}
         </div>
         {% else %}
         <div class="noarticleimage">
