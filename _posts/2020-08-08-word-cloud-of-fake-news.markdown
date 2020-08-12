@@ -3,7 +3,7 @@ layout: post
 title:  "Building Word Cloud of fake news debunked by Alt News for learning Python"
 date:   2020-08-08 20:00:00
 categories: python
-tags: python data
+tags: python data featured
 image: /assets/article_images/2020-08-08-fake-news-word-cloud/fake-news.jfif
 image2: /assets/article_images/2020-08-08-fake-news-word-cloud/fake-news.jfif
 image-credit: Financial Times
