@@ -3,7 +3,7 @@ layout: post
 title:  "गुलामगिरी - महात्मा जोतिबा फुले"
 date:   2020-09-03 14:34:25
 categories: book
-tags: featured book casteism mahatma jotiba phule gulamgiri
+tags: book casteism mahatma jotiba phule gulamgiri
 image: /assets/article_images/2020-09-03-mahatma-phule/mahatma-phule.jpg
 image2: /assets/article_images/2020-09-03-mahatma-phule/mahatma-phule-mobile.jpg
 image-credit: NewsLaundry
