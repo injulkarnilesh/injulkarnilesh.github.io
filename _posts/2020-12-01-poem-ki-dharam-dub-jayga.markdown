@@ -3,7 +3,7 @@ layout: post
 title:  "की धरम डूब जायेगा"
 date:   2020-12-01 14:34:25
 categories: poem
-tags: poem hindu casteism religion hindutva 
+tags: hindi poem hindu casteism religion hindutva 
 image: /assets/article_images/2020-12-01-poem-dharam-dub-jayega/drowning.png
 image2: /assets/article_images/2020-12-01-poem-dharam-dub-jayega/drowning.png
 image-credit: Financial Tribune
