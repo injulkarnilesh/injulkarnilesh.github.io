@@ -3,7 +3,7 @@ layout: post
 title:  "Debugging High CPU usage on Kubernetes pod"
 date:   2021-03-18 14:34:25
 categories: kubernetes
-tags: featured kubernetes resource analysis 
+tags: kubernetes resource analysis 
 image: /assets/article_images/2021-03-18-kubernetes/kubernetes.png
 image2: /assets/article_images/2021-03-18-kubernetes/kubernetes.png
 image-credit: SoftwareEngineeringDaily
