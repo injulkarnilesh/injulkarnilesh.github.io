@@ -1,7 +1,8 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Site settings
 title: "Injulkar Nilesh"
@@ -54,6 +55,3 @@ social:
     share_url:
     share_title:
     share_link:
-
-gems:
-  - jekyll-sitemap

@@ -3,7 +3,7 @@ layout: post
 title:  "Object Oriented JavaScript"
 date:   2020-12-25 14:34:25
 categories: javascript
-tags: featured javascript object oriented
+tags: featured javascript object-oriented
 image: /assets/article_images/2020-12-25-medium-migration/got.jpg
 image2: /assets/article_images/2020-12-25-medium-migration/got.jpg
 image-credit: FilmDaily
