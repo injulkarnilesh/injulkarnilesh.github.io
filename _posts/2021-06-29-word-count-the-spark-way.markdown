@@ -92,7 +92,7 @@ There is similar transformation to `reduceByKey` called `groupByKey` but there i
 
 Following diagram shows the behavioral difference between ReduceByKey and GroupByKey.
 
-![GroupByKey vs ReduceByKey](/assets/article_images/2021-29-06-word-count-the-spark-way/ReduceByGroupByKey.jpg)
+![GroupByKey vs ReduceByKey](/assets/article_images/2021-06-29-word-count-the-spark-way/ReduceByGroupByKey.jpg)
 
 # DataSet
 DataSet/DataFrame is new way to write Spark Code which is more friendly and is more flexible. It is more SQL friendly as to have SQL like methods to manipulate data.

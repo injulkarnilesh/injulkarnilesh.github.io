@@ -33,6 +33,10 @@ Configuration
 
 The main settings happen in side of the _config.yml file:
 
+### Run
+bundle exec jekyll serve
+
+
 ### Site
 
 Main settings for the site
