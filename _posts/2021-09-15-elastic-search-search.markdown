@@ -22,7 +22,7 @@ Eg.
 
 {
     "name": "Nilesh Injulkar",
-    "birth_date": "1990/02/27",
+    "birth_date": "1995/05/18",
     "skills": ["programming", "reading"]
 }
 
@@ -89,13 +89,13 @@ For below documents, inverted index for name field would have
     {
         "id": "d1",
         "name": "Nilesh Injulkar",
-        "birth_date": "1990/02/27",
+        "birth_date": "1995/05/18",
         "skills": ["programming", "reading"]
     },
     {   
         "id": "id2"
         "name": "Sagar Injulkar",
-        "birth_date": "1981/03/03",
+        "birth_date": "1993/02/21",
         "skills": ["computers", "reading"]
     },
 
